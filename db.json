@@ -1,0 +1,34 @@
+{
+    "campaigns": [
+        {
+            "id": "1",
+            "campaign_name": "name", 
+            "keywords": "keywords", 
+            "bid_amount": "bid_amount", 
+            "campaign_fund": "funds", 
+            "status": "status", 
+            "town": "town", 
+            "radius": "radius"
+        },
+        {
+            "id": "2",
+            "campaign_name": "name", 
+            "keywords": "keywords", 
+            "bid_amount": "bid_amount", 
+            "campaign_fund": "funds", 
+            "status": "status", 
+            "town": "town", 
+            "radius": "radius"
+        },
+        {
+            "id": "3",
+            "campaign_name": "name", 
+            "keywords": "keywords", 
+            "bid_amount": "bid_amount", 
+            "campaign_fund": "funds", 
+            "status": "status", 
+            "town": "town", 
+            "radius": "radius"
+        }
+    ]
+}
