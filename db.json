@@ -1,34 +1,31 @@
 {
-    "campaigns": [
-        {
-            "id": "1",
-            "campaign_name": "name", 
-            "keywords": "keywords", 
-            "bid_amount": "bid_amount", 
-            "campaign_fund": "funds", 
-            "status": "status", 
-            "town": "town", 
-            "radius": "radius"
-        },
-        {
-            "id": "2",
-            "campaign_name": "name", 
-            "keywords": "keywords", 
-            "bid_amount": "bid_amount", 
-            "campaign_fund": "funds", 
-            "status": "status", 
-            "town": "town", 
-            "radius": "radius"
-        },
-        {
-            "id": "3",
-            "campaign_name": "name", 
-            "keywords": "keywords", 
-            "bid_amount": "bid_amount", 
-            "campaign_fund": "funds", 
-            "status": "status", 
-            "town": "town", 
-            "radius": "radius"
-        }
-    ]
+  "campaigns": [
+    {
+      "campaign_name": "Sephora",
+      "keywords": "cosmetics",
+      "bid_amount": "1200",
+      "campaign_fund": "120",
+      "status": "on",
+      "town": "Lodz",
+      "radius": "250",
+      "id": 1
+    },
+    {
+      "campaign_name": "BMW",
+      "keywords": "cars, motors",
+      "bid_amount": "2000",
+      "campaign_fund": "1230",
+      "status": "off",
+      "town": "Poznan",
+      "radius": "120",
+      "id": 2
+    }
+  ],
+  "userdata": [
+    {
+      "login": "Oliwia",
+      "account": 7300,
+      "id": "1"
+    }
+  ]
 }
